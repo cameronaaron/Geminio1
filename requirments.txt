@@ -1,0 +1,8 @@
+numpy
+scipy
+faiss-cpu
+google-generativeai
+sentence-transformers
+scikit-learn
+tqdm
+google-api-core
