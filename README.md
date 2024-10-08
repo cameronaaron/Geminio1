@@ -12,7 +12,7 @@ Gemini o1 is an advanced autonomous reasoning system that leverages large langua
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/yourusername/gemini-o1.git
+    git clone https://github.com/cameronaaron/gemini-o1.git
     cd gemini-o1
     
 
